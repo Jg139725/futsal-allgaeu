@@ -1,17 +1,13 @@
-# Inhaltsabgleich – 23. Oktober 2026
+# Öffentliche Inhaltsquellen
 
-Quelle: https://www.futsal-allgaeu.net/
+Stand: 24. Oktober 2026. Grundlage des Entwurfs ist https://www.futsal-allgaeu.net/ und der bisherige Stand dieses Repositorys (02186c77d54daab355cdbfdb7ce165d264820afa).
 
-Abgeglichen: Startseite, Mannschaft (/about-1), Vorstand (/about-1-1), Regionalliga (/projects-6), Spieler werden (/contact-7), News (/blog), Impressionen (/impressionen), Sponsoren (/unsere-sponsoren), Club 50 (/club-50), Downloads (/s-projects-basic), Impressum (/about-6).
+Abgeglichen: Startseite, Mannschaft (/about-1), Vorstand (/about-1-1), Regionalliga (/projects-6), Spieler werden (/contact-7), News (/blog), Impressionen (/impressionen), Sponsoren (/unsere-sponsoren), Club 50 (/club-50), Downloads (/s-projects-basic), Impressum (/about-6) und Datenschutzerklärung.
 
-- Die Quellwebsite nennt weiterhin Saison 2024/2025. Diese Daten sind als Archiv übernommen, nicht als aktueller Kader bestätigt.
-- Alle 18 Mannschaftsporträts sowie vier Helferporträts aus den eingebetteten Galerie-Daten übernommen. Vorhandene FuPa-Profillinks erhalten. Beschriftungen stammen aus den Dateinamen der Quelle; Spitznamen wurden nicht zu vollständigen Namen erweitert.
-- Vorstand Thomas Neitzel und Marco Steiner laut Impressum der Quellwebsite.
-- Vierter Newsbeitrag (Busfahrt) lokal ergänzt, inklusive historischem Veranstaltungshinweis.
-- Kontaktadresse berichtigt; Formular mit den bisherigen Feldern verbleibt auf der WIX-Quellwebsite. Kein neuer Versanddienst eingerichtet.
-- Downloads: Mitgliedsantrag, Satzungsänderung und Datenschutz vorhanden. „Satzung“ erscheint auf der Quellseite nur als Text ohne separat abrufbaren Downloadlink; hierfür wurde kein Dokument erfunden.
-- Datenschutzerklärung und Impressum stammen weiterhin aus dem bisherigen Webauftritt. Die Datenschutzerklärung beschreibt WIX; sie ist vor einem endgültigen Hostingwechsel an die tatsächliche Verarbeitung anzupassen.
-- Für eine vollständige Ablösung der bisherigen Website muss der Formularversand umgezogen und getestet werden.
-- Galerie-Webbilder verkleinert; Originaldateien bleiben erhalten.
+Übernommen: 18 Mannschaftsporträts, vier Helferporträts, Vorstand, vier Vereinsmeldungen, Sponsoren, Club 50, elf Galeriebilder, drei PDF-Downloads, Kontaktwege und ursprüngliche Rechtstexte. Bild- und Filmnachweis: bisherige Vereinswebsite / Herzfotografin Lisa-Marie. Der transparente Vereinswappen-Ausschnitt entspricht der freigegebenen Vorschau.
 
-Offen: bestätigter neuer Saisonstand, eigenständiger Formularversand, endgültiges Hosting und dazu passende rechtliche Texte. Keine aktuellen Termine oder Funktionen erfunden.
+Die Originalseite führt weiterhin den Kader 2024/2025 und Meldungen aus 2025. Diese Inhalte sind im Entwurf als Archiv gekennzeichnet. Aktuelle Termine und Tabellen sind über BFV und FUSSBALL.DE verlinkt. Das Kontaktformular bleibt auf der bisherigen Vereinswebsite.
+
+Vor einer vollständigen Ablösung der bisherigen Vereinswebsite: aktuellen Saisonstand bestätigen, Formularversand übernehmen und testen sowie Rechtstexte an den tatsächlichen Betrieb anpassen. Für „Satzung“ liefert die bisherige Downloadseite keinen eigenen abrufbaren Link; es wurde kein Dokument ergänzt.
+
+Diese Präsentationsversion wurde vom Nutzer für die Übertragung auf GitHub freigegeben. Die private Vorschau und die bisherige Vereinswebsite werden durch diesen GitHub-Stand nicht verändert.
